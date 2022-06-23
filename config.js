@@ -1,19 +1,19 @@
 //=============『 Utama 』================== //
-global.owner = ['6285878836361'] 
+global.owner = ['6283836585839'] 
 global.mods = [] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'iky'
-global.numberowner = '6285878836361'
+global.nameowner = 'agis'
+global.numberowner = '6283836585839'
 global.instagram = 'https://instagram.com/ikykunnnn'
 global.github = 'https://github.com/rizkiwibu'
-global.dana = '6283817161861'
-global.pulsa = '6283817161861'
-global.gopay = '6283817161861'
+global.dana = '6283836585839'
+global.pulsa = '6283836585839'
+global.gopay = '6283836585839'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'ikyBot-Md'
+global.namebot = 'im-Md'
 global.gc = 'https://chat.whatsapp.com/KcMIbBUddqjIoNmGCrRU5m'
 global.web = 'https://www.helgastoree.xyz' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
