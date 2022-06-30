@@ -1,6 +1,6 @@
 let axios = require("axios");
 let handler = async(m, { conn, text }) => {
-	axios.get(`https://equran.id/apidev`).then ((res) => {
+	axios.get(`https://api.quran.sutanlab.id`).then ((res) => {
 	 	let sr = /{(.*?)}/gi;
          let hs = res.data.acak.id.ayat;
          let ket = `${hs}`.replace(sr, '');
